@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Shreeam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeram2k3&theme=dark&show_icons=true&&hide=issues,contribs)
+![Shreeram's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeram2k3&theme=dark&show_icons=true&hide=issues,contribs&rank_icon=github&hide_rank=true)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/shreeram2k3?ext=contest&theme=dark)](https://leetcode.com/shreeram2k3)
 
