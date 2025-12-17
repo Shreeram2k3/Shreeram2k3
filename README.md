@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Shreeram
+
 
 <!--
 **Shreeram2k3/Shreeram2k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Shreeam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeram2k3&theme=dark&show_icons=true&&hide=issues,contribs)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/shreeram2k3?ext=contest&theme=dark)](https://leetcode.com/shreeram2k3)
+
+[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeram2k3&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
