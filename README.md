@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <!--[![Leetcode Stats](https://leetcard.jacoblin.cool/shreeram2k3?ext=contest&theme=dark)](https://leetcode.com/shreeram2k3)-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shreeram2k3?theme=dark&font=Encode%20Sans%20Expanded&ext=heatmap)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeram2k3&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shreeram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeram2k3&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
